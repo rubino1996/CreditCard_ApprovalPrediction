@@ -1,4 +1,4 @@
-
+# Uploading Libraries
 library(dplyr)
 library(tidyr)
 library(ggplot2)
@@ -6,6 +6,7 @@ library(cluster)
 library(caTools)
 library(nnet)
 
+# Uploading Datasets
 df_1 <- read.csv("application_record.csv")
 df_2 <- read.csv("credit_record.csv")
 
@@ -36,7 +37,7 @@ df_2_agg <- df_2 %>%
     num_bad_months = sum(STATUS_NUM >= 3, na.rm = TRUE),  # Months overdue by 60+ days
   )
 
-# Meging Data
+# Merging Data
 merged_df <- df_1 %>% left_join(df_2_agg, by = "ID")
 
 
