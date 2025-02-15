@@ -33,7 +33,9 @@ K-means is used here as the clustering method and it was shown that the number o
 🚀 Summary of Risk Levels:
 
 ✅ Short but good credit history → More likely to be approved.
+
 ❌ Long history with many bad months → Higher rejection risk.
+
 ⚠️ Medium-length credit history → Risk depends on payment patterns.
 
 ## Classifier ##
