@@ -9,7 +9,8 @@ K-means is used here as the clustering method and it was shown that the number o
 
 ![](credit_history_group.png)
 
-📌 Credit History Clusters & Risk Levels
+📌 Credit History Clusters & Risk Levels:
+
 1️⃣ 🔴 Cluster 1 (Red, Short Credit History) → Moderate-Risk Borrowers
 - Borrowers with a short credit history (~5-25 months) but a strong record of timely payments.
 - Typically young borrowers or new credit holders establishing their financial profiles.
@@ -30,6 +31,7 @@ K-means is used here as the clustering method and it was shown that the number o
   - High-Risk Borrowers: Those with ~60 months but fewer good months may be at risk of credit rejection.
 
 🚀 Summary of Risk Levels:
+
 ✅ Short but good credit history → More likely to be approved.
 ❌ Long history with many bad months → Higher rejection risk.
 ⚠️ Medium-length credit history → Risk depends on payment patterns.
