@@ -43,6 +43,6 @@ For the classifer method, Logistic Regression was used and it was shown that the
 ![](important_values.png)
 
 ## PDF with Code and Results ##
-For a comprehensive approach of the results with the code you can look at the pdf that is uploaded here [](creditcard_clustering_classifier.pdf)
+For a comprehensive approach of the results with the code you can look at the pdf that is uploaded here [](./creditcard_clustering_classifier.pdf)
 
 
