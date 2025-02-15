@@ -42,5 +42,7 @@ K-means is used here as the clustering method and it was shown that the number o
 For the classifer method, Logistic Regression was used and it was shown that the model trained had a high accuracy of almost 100% with high values of recall and f-1 sccore for the four different groups
 ![](important_values.png)
 
+## PDF with Code and Results ##
+For a comprehensive approach of the results with the code you can look at the pdf that is uploaded here [](creditcard_clustering_classifier.pdf)
 
 
