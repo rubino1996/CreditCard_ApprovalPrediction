@@ -43,6 +43,6 @@ For the classifer method, Logistic Regression was used and it was shown that the
 ![](important_values.png)
 
 ## PDF with Code and Results ##
-For a comprehensive approach of the results with the code you can look at the pdf that is uploaded here []((https://github.com/rubino1996/CreditCard_ApprovalPrediction/blob/main/creditcard-clustering-classifier.pdf)
+For a comprehensive approach of the results with the code you can look at the pdf that is uploaded here [](https://github.com/rubino1996/CreditCard_ApprovalPrediction/blob/main/creditcard-clustering-classifier.pdf)
 
 
